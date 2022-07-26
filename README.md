@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @gobbledy-gook
-- 👀 I’m interested in interesting solving new real world problems with coding.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in solving real world problems with coding skills.
+- 🌱 Currently exploring various domains like Web Dev, ML-AI, App Dev. 
+- 📚 Pursuing my BTech in CSE at NIT, Surat.
+- ✉️ You could reach me at gobbledygookmad@gmail.com
 
 <!---
 gobbledy-gook/gobbledy-gook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
