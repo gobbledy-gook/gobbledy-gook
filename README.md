@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gobbledy-gook
 - 👀 I’m interested in solving real world problems with coding skills.
 - 🌱 Currently exploring various domains like Web Dev, ML-AI, App Dev. 
-- 📚 Pursuing my BTech in CSE at NIT, Surat.
+- 📚 Pursuing my Bachelors in Computer Science & Engineering at NIT, Surat.
 - ✉️ You could reach me at gobbledygookmad@gmail.com
 
 ##
