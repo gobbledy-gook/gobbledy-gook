@@ -12,8 +12,8 @@
     <img align = "right" width = "30%" src = "https://gifdb.com/images/high/dragon-ball-z-goku-warm-up-piunlli97jndx6wg.gif">
   </div>
   <div width = "50%">
-    👾 I’m interested in building public utility tools and working on intelligent systems. <br>
-    🌱 Currently exploring various domains like Web Dev, ML-AI, Dev-Ops. <br>
+    👾 I’m a newbie full stack web developer and trying to learn using open source conributions.  <br>
+    🌱 I am open to chat about Cryptography and Quantum Computing. <br>
     📚 Pursuing my Bachelors in Computer Science & Engineering at NIT, Surat.
   </div>
 
