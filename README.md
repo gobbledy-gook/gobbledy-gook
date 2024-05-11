@@ -12,9 +12,9 @@
     <img align = "right" width = "30%" src = "https://gifdb.com/images/high/dragon-ball-z-goku-warm-up-piunlli97jndx6wg.gif">
   </div>
   <div width = "50%">
-    👾 I’m a newbie full stack web developer and trying to learn using open source conributions.  <br>
+    👾 I’m a full-stack web developer and trying to learn using open-source contributions.  <br>
     🌱 I am open to chat about Cryptography and Quantum Computing. <br>
-    📚 Pursuing my Bachelors in Computer Science & Engineering at NIT, Surat.
+    📚 Pursuing my Bachelor in Computer Science & Engineering at NIT, Surat.
   </div>
 
 
