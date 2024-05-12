@@ -13,7 +13,8 @@
   </div>
   <div width = "50%">
     👾 I’m a full-stack web developer and trying to learn using open-source contributions.  <br>
-    🌱 I am open to chat about Cryptography and Quantum Computing. <br>
+    🌱 I am open to chat about Cryptography, Computer Science, Movies, and puzzles. <br>
+    🤠 I served one year as Chairperson at ACM, NIT Surat Student Chapter. <br>
     📚 Pursuing my Bachelor in Computer Science & Engineering at NIT, Surat.
   </div>
 
@@ -31,6 +32,11 @@
   <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/flask/flask.png">
   <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
   <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
+  <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+  <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/chrome-extension/chrome-extension.png">
+  <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+  <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png">
+  <img width = "5%" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
 </p>
 
 ##
