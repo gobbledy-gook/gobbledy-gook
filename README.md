@@ -42,8 +42,8 @@
 ##
 ### :star_of_david: My Stats 
 <p align = "center">
-  <img src = "http://github-readme-streak-stats.herokuapp.com?user=gobbledy-gook&theme=dark">
-<img src = "https://github-readme-stats.vercel.app/api?username=gobbledy-gook&show_icons=true&theme=dark#gh-dark-mode-only">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=gobbledy-gook&theme=dark&hide_current_streak=true" alt="GitHub Streak" />
+<img src = "https://github-readme-stats.vercel.app/api?username=gobbledy-gook&show_icons=true&theme=codeSTACKr">
 </p>
 
 
