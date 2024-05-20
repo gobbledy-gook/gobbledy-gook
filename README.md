@@ -14,7 +14,7 @@
   <div width = "50%">
     👾 I’m a full-stack web developer and trying to learn using open-source contributions.  <br>
     🌱 I am open to chat about Cryptography, Computer Science, Movies, and puzzles. <br>
-    🤠 I served one year as Chairperson at ACM, NIT Surat Student Chapter. <br>
+    🤠 I have served a year as the Chairperson at ACM, NIT Surat Student Chapter. <br>
     📚 Pursuing my Bachelor in Computer Science & Engineering at NIT, Surat.
   </div>
 
