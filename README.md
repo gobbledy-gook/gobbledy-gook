@@ -12,7 +12,7 @@
     <img align = "right" width = "30%" src = "https://gifdb.com/images/high/dragon-ball-z-goku-warm-up-piunlli97jndx6wg.gif">
   </div>
   <div width = "50%">
-    👾 I’m a web developer and trying to expand my scope using open-source contributions.  <br>
+    👾 As a CSE undergrad, Web-Dev is a basic thing we all know, so apart that learning tools in cybersec.  <br>
     🌱 I am open to chat about Cryptography, Computer Science, Movies, and puzzles. <br>
     🤠 I have served a year as the Chairperson at ACM, NIT Surat Student Chapter. <br>
     📚 In my Final Year of Bachelor in Computer Science & Engineering at NIT, Surat.
