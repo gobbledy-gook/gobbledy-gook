@@ -46,6 +46,9 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=gobbledy-gook&show_icons=true&theme=codeSTACKr">
 </p>
 
+##
+### 💬 Let's Collaborate!
+I’m always looking for opportunities to collaborate on interesting or quirky projects. If you have any ideas, feel free to reach out to discuss!
 
 ## 
 <p align = "center">I am reachable at - </p>
