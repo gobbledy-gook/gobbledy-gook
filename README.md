@@ -14,8 +14,8 @@
   <div width = "70%">
     👾 Learning cybersec tools and honing programming skills.<br>
     🌱 I am open to chat about Cryptography, Computer Science, Movies, and puzzles. <br>
-    🤠 I have served a year as the Chairperson at ACM, NIT Surat Student Chapter. <br>
-    📚 In my Final Year of Bachelor in Computer Science & Engineering at NIT, Surat.
+    🤠 I have served a year as the Chairperson at ACM Student Chapter. <br>
+    📚 A CSE Graduate.
   </div>
 
 
