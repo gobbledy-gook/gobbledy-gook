@@ -52,7 +52,7 @@ I’m always looking for opportunities to collaborate on interesting or quirky p
 
 ## 
 <p align = "center">I am reachable at - </p>
-<p align = "center"><a href="https://www.linkedin.com/in/garvit-shah-1287001b8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <p align = "center"><a href="https://www.linkedin.com/in/garvit-shah-1287001b8/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
   <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=new" target="_blank"><img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 </body>
